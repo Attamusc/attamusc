@@ -4,7 +4,9 @@
 
 > I go by attamusc (`atə-məsk`) pretty much everywhere
 
-### I'm an Engineering Manager [@adobe](https://github.com/adobe)
+### I'm a Sr. Engineering Manager [@github](https://github.com/github)
+
+Previously, I was an Engineering Manager [@adobe](https://github.com/adobe) on the Behance Network and Adobe Portfolio team
 
 I spend a lot of my time thinking about how to build better interactions on the web.
 
