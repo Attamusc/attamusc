@@ -4,7 +4,7 @@
 
 > I go by attamusc (`atə-məsk`) pretty much everywhere
 
-### I'm a Sr. Engineering Manager [@github](https://github.com/github)
+### I'm a Director of Engineering [@github](https://github.com/github)
 
 I spend a lot of my time thinking about software and the teams that build it.
 
